@@ -1,12 +1,12 @@
 # Portfolio Personal — Estética Visual Studio Code
 
-Este proyecto es un portfolio web completo, moderno y responsive para **Enrique Navarrete-Amado Sánchez** (Desarrollador Web Front-End & Back-End y Técnico IT), diseñado visualmente con la estética de **Visual Studio Code**.
+Este proyecto es un portfolio web completo, moderno y responsive de **Enrique Navarrete-Amado Sánchez** (Desarrollador Web Front-End & Back-End y Técnico IT), diseñado visualmente con la estética de **Visual Studio Code**.
 
 ![Portfolio Preview](avatar.jpg)
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 1. **Interfaz Inmersiva VS Code**:
    - **Barra Superior (TitleBar)**: Nombre profesional, navegación, indicador "Disponible para oportunidades" y accesos directos a GitHub, LinkedIn, Email y descarga directa de CV.
@@ -34,7 +34,7 @@ Este proyecto es un portfolio web completo, moderno y responsive para **Enrique 
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Framework**: [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
 - **Build Tool**: [Vite 6](https://vitejs.dev/)
@@ -44,9 +44,9 @@ Este proyecto es un portfolio web completo, moderno y responsive para **Enrique 
 
 ---
 
-## 💻 Instalación y Ejecución Local
+## Instalación y Ejecución Local
 
-Para ejecutar el proyecto localmente en tu máquina:
+Para ejecutar el proyecto de forma local:
 
 ```bash
 # 1. Clonar el repositorio
@@ -64,7 +64,7 @@ La aplicación estará disponible en `http://localhost:5173`.
 
 ---
 
-## 📦 Compilación y Despliegue (GitHub Pages)
+## Compilación y Despliegue (GitHub Pages)
 
 Para generar el bundle de producción optimizado:
 
@@ -85,7 +85,7 @@ npx gh-pages -d dist
 
 ---
 
-## 📁 Resumen de Archivos Creados y Modificados
+## Resumen de Archivos Creados y Modificados
 
 - `src/App.tsx`: Layout principal del entorno VS Code (ActivityBar, FileExplorer, TabEditor, TerminalPanel, StatusBar).
 - `src/components/TitleBar.tsx`: Barra de título superior con enlaces rápidos y badge de disponibilidad.
