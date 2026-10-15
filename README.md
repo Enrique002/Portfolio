@@ -2,7 +2,7 @@
 
 Este proyecto es un portfolio web completo, moderno y responsive de **Enrique Navarrete-Amado Sánchez** (Desarrollador Web Front-End & Back-End y Técnico IT), diseñado visualmente con la estética de **Visual Studio Code**.
 
-![Portfolio Preview](avatar.jpg)
+![Portfolio Preview](/public/preview.png)
 
 ---
 
