@@ -40,7 +40,6 @@ Este proyecto es un portfolio web completo, moderno y responsive de **Enrique Na
 - **Build Tool**: [Vite 6](https://vitejs.dev/)
 - **Estilos**: [Tailwind CSS v4](https://tailwindcss.com/)
 - **Iconos**: [Lucide React](https://lucide.dev/)
-- **Generación de PDF**: [ReportLab (Python)](https://www.reportlab.com/)
 
 ---
 
