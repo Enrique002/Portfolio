@@ -42,7 +42,7 @@ export const cvData: CVData = {
   name: "Enrique Navarrete-Amado Sánchez",
   title: "Desarrollador Web Front-End & Back-End | Técnico IT",
   email: "enriquenavarrete3000@gmail.com",
-  phone: "+34691178855",
+  phone: "",
   location: "Monóvar, Alicante, España",
   linkedin: "https://www.linkedin.com/in/enrique-nav/",
   github: "https://github.com/Enrique002",
